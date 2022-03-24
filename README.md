@@ -37,9 +37,7 @@ Age: 19 y/o
     get the opportunities in the future! 
    
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 
