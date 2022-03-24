@@ -38,13 +38,15 @@ Age: 19 y/o
    
    
 hj
-
-
-mvh    
-jmmiv
-nna hz
+ hz
 
 1. 
+
+mvh    
+
+jmmiv
+
+nna
 
 
 **Bold** and _Italic_ and `Code` text
