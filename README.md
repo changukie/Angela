@@ -23,7 +23,7 @@ ALL ABOUT ANGELA ♡
 
 # Personal Information
 Contact Number: 09493003508
-Birthday: July 27,2002
+Birthday: July 28,2002
 Birth Place: Tunasan, Muntinlupa City
 Age: 19 y/o
 
@@ -36,18 +36,6 @@ Age: 19 y/o
     to study BS in International Relations when i 
     get the opportunities in the future! 
    
-   
-hj
- hz
-
-1. 
-
-mvh    
-
-jmmiv
-
-nna
-
 
 **Bold** and _Italic_ and `Code` text
 
