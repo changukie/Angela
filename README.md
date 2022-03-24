@@ -1,6 +1,6 @@
 # Angela Grace De Guzman
-``BS in Information Technology, 
-Nineteen years of age``
+```BS in Information Technology, 
+Nineteen years of age```
 
 ![IMG_20220306_141319](https://user-images.githubusercontent.com/101629473/159833877-0e67fce1-afde-4c26-950b-ec8a8399acd4.jpg)
 
@@ -14,7 +14,7 @@ Nineteen years of age``
 
 
 ```markdown
-Syntax highlighted code block
+ALL ABOUT ANGELA ♡
 
 # SNS
 🐦 @gelay_dnwm
@@ -27,12 +27,15 @@ Birthday: July 27,2002
 Birth Place: Tunasan, Muntinlupa City
 Age: 19 y/o
 
+# Things I Love
+    • I spend most of my time on fangirling and supporting my favorite artists and actor! I also love to paint and draw whenever i have free time. I love traveling and watching documentaries about traveling abroad! I want to study BS in International Relations when i get the opportunities in the future! 
+   
+hjmvh    
+jmmiv
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+1. 
+
 
 **Bold** and _Italic_ and `Code` text
 
