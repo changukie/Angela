@@ -8,18 +8,24 @@ Nineteen years of age``
 
 “'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you a hope and a future. '” — Jeremiah 29:11.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Get to know me!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# SNS
+🐦 @gelay_dnwm
+📷 @gelay_dnwm
+👤 Angela Grace De Guzman
+
+### Personal Information
+Contact Number: 09493003508
+Birthday: July 27,2002
+Birth Place: Tunasan, Muntinlupa City
+Age: 19 y/o
+
 
 - Bulleted
 - List
