@@ -1,6 +1,6 @@
 # Angela Grace De Guzman
-## BS in Information Technology
-### Nineteen years of old
+BS in Information Technology
+###Nineteen years of age
 
 You can use the [editor on GitHub](https://github.com/changukie/Angela/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
