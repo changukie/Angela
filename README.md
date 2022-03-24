@@ -2,7 +2,11 @@
 ``BS in Information Technology, 
 Nineteen years of age``
 
-You can use the [editor on GitHub](https://github.com/changukie/Angela/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![IMG_20220306_141319](https://user-images.githubusercontent.com/101629473/159833877-0e67fce1-afde-4c26-950b-ec8a8399acd4.jpg)
+
+## Life Verse
+
+“'For I know the plans I have for you,' declares the Lord, 'plans to prosper you and not to harm you, plans to give you a hope and a future. '” — Jeremiah 29:11.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
