@@ -10,7 +10,8 @@ Nineteen years of age``
 
 ### Get to know me!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+안녕하세요! 제 이름은 안젤라입니다. 나는 열아홉 살이다. 이 페이지에서 당신은 나를 더 많이 알 수 있을 거예요~ 좋은 하루 보내세요~ ✿
+
 
 ```markdown
 Syntax highlighted code block
@@ -20,7 +21,7 @@ Syntax highlighted code block
 📷 @gelay_dnwm
 👤 Angela Grace De Guzman
 
-### Personal Information
+# Personal Information
 Contact Number: 09493003508
 Birthday: July 27,2002
 Birth Place: Tunasan, Muntinlupa City
