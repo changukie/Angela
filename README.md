@@ -30,7 +30,12 @@ Age: 19 y/o
 # Things I Love
     • I spend most of my time on fangirling 
     and supporting my favorite artists and actor!
-    I also love to paint and draw whenever i have free time. I love traveling and watching documentaries about traveling abroad! I want to study BS in International Relations when i get the opportunities in the future! 
+    I also love to paint and draw whenever i have 
+    free time. I love traveling and watching 
+    documentaries about traveling abroad! I want 
+    to study BS in International Relations when i 
+    get the opportunities in the future! 
+   
    
 hj
 
